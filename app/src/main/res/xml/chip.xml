@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chip
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:chipBackgroundColor="@android:color/transparent"
+    app:chipCornerRadius="0dp"
+    app:chipStrokeColor="@color/text.color.grey"
+    app:chipStrokeWidth="1dp"
+
+    app:textStartPadding="@dimen/dp30"/>
