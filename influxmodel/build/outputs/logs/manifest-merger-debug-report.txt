@@ -1,0 +1,11 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lavanya\Downloads\InfluxAndroidTask-master\influxmodel\src\main\AndroidManifest.xml:1:1-2:37
+INJECTED from C:\Users\Lavanya\Downloads\InfluxAndroidTask-master\influxmodel\src\main\AndroidManifest.xml:1:1-2:37
+INJECTED from C:\Users\Lavanya\Downloads\InfluxAndroidTask-master\influxmodel\src\main\AndroidManifest.xml:1:1-2:37
+	package
+		ADDED from C:\Users\Lavanya\Downloads\InfluxAndroidTask-master\influxmodel\src\main\AndroidManifest.xml:2:5-34
+		INJECTED from C:\Users\Lavanya\Downloads\InfluxAndroidTask-master\influxmodel\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lavanya\Downloads\InfluxAndroidTask-master\influxmodel\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lavanya\Downloads\InfluxAndroidTask-master\influxmodel\src\main\AndroidManifest.xml:1:11-69
